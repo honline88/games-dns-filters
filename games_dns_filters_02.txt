@@ -1,0 +1,10 @@
+!
+! Title: Games DNS filters
+! Description: List Games DNS filters
+! Version: 0.0.0.1
+! Homepage: https://github.com/honline88/games-dns-filters/
+! Last modified: 2025-05-10T12:54:00.000Z
+!
+!
+||store.steampowered.com^
+||steampowered.com^
